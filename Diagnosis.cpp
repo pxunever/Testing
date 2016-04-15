@@ -1,4 +1,7 @@
-
+/*
+ *This is only a testing file.
+ *
+ /*
 
 #include "Diagnosis.h"
 
